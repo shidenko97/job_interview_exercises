@@ -1,2 +1,2 @@
-# job_interview_exercises
-Just a collection of job interview exercises 
+# Job interview exercises
+Just a collection of job interview exercises. 
