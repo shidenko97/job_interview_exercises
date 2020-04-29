@@ -1,6 +1,7 @@
 def binary_search_iter(array: list, el: int) -> int:
     """
     Iterative binary search
+    Time complexity O(log n)
     :param array: Array to search
     :type array: list
     :param el: Element to search
@@ -33,6 +34,7 @@ def binary_search_recv(
 ) -> int:
     """
     Recursive binary search
+    Time complexity O(log n)
     :param array: Array to search
     :type array: list
     :param el: Element to search
